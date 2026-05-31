@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersalidate",
+        "uuid": 4649664,
+        "checksum": "wvao5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
